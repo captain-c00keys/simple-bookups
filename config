@@ -1,0 +1,4 @@
+Host book-app
+   Hostname <your ec2 public DNS>
+   User ubuntu
+   IdentityFile ~/.ssh/book-app.pem
